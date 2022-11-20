@@ -1,0 +1,18 @@
+{
+    "uuid": "",
+    "type_uuid": "",
+    "name": "",
+    "description": "",
+    "notes": "",
+    "measure": {
+        "type": "volume",
+        "value": 0.5,
+        "unit": "cup"   
+    },
+    "created_date": "2022-11-20",
+    "purchase_date": "2022-11-20",
+    "expiration_date": "2023-11-20",
+    "last_audit_date": "2022-11-20",
+    "image": "",
+    "tags": []
+}
